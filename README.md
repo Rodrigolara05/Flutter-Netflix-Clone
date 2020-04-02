@@ -36,7 +36,7 @@ Si deseas conocer la creación paso a paso del aplicativo movil, una explicació
   Programación en nuevas tecnologias,
   Y mas!
       
-* **Flutter UI: Desarrollando Netflix desde cero || Material Design** -  [Enlace](https://www.youtube.com/watch?v=Qwwi8DiUJ60&t=24s)
+* **Flutter UI: Desarrollando Netflix desde cero || Material Design** -  [Enlace](https://youtu.be/Qwwi8DiUJ60)
 
 ## Enlace 🔗
 
